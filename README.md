@@ -1,7 +1,7 @@
 # xeno
 
 ## Web開発
-[MS初学者向け教材](https://github.com/microsoft/Web-Dev-For-Beginners)
+[Web開発基礎(クライアントサイド)](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 ## React
 [ハンズオン①](https://qiita.com/Sicut_study/items/a27fb53468e14216d6fb#jisou%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E5%8B%9F%E9%9B%86%E4%B8%AD)
